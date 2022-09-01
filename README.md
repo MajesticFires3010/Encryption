@@ -7,7 +7,7 @@ Encryption Algorithm based on Bit Manipulation in Python3
 ## Special Instruction for Shared Encryption-Decryption 
 > If Encrypted Text is Shared with someone for Decryption, they must have the Code along with "Text.txt" file which is atomatically created while Encryption takes place
 
-## Self-Explanatory Code with Enough Comments so that even a Person with Zero Tech Experience can also Understand the Code
+## Self-Explanatory Code with Ample amount of Comments
 
 ## Installation
 You can install the all requirements from **requirements.txt** by using pip.
