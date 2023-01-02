@@ -17,8 +17,7 @@ You can install the all requirements from **requirements.txt** by using pip.
 
 ### Encryption-Decryption Algorithm : 
 
-> Each Character {Letter (UpperCase or LowerCase) or Number or Special Character} is converted in it's ASCII   
-Value (An Integer)...  
+> Each Character {Letter (UpperCase or LowerCase) or Number or Special Character} is converted in it's ASCII Value (An Integer)...  
 
 > ASCII Value is then converted into Binary Format (8 Digits is Confirmed by adding leading Zeros for Uniformity...  
 
