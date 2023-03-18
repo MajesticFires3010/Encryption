@@ -14,6 +14,7 @@ You can install the all requirements from **requirements.txt** by using pip.
 
     pip install -r requirements.txt
 
+If Python and pip are not installed on the device, then "Encyption_Decryption.exe" could also be downloaded and used directly.
 
 ## Encryption-Decryption Algorithm : 
 
