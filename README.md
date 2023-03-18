@@ -15,7 +15,7 @@ You can install the all requirements from **requirements.txt** by using pip.
     pip install -r requirements.txt
 
 
-### Encryption-Decryption Algorithm : 
+## Encryption-Decryption Algorithm : 
 
 > Each Character {Letter (UpperCase or LowerCase) or Number or Special Character} is converted in it's ASCII Value (An Integer)...  
 
